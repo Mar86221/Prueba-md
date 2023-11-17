@@ -8,7 +8,7 @@
 <p><img src="https://sm.ign.com/ign_es/news/l/los-unown-/los-unown-desbloquean-medallas-en-pokemon-go_fzez.jpg" alt=""></p>
 <ul>
 <li>
-<h5 id="tienen-la-peculiaridad-de-que-su-anatomía-se-asemeja-a-las-letras-del-alfabeto-latino-sin-embargo-su-origen-es-un-poco-confuso-algunos-dicen-que-fue-primero-los-pojémonos-y-de-ellos-salió-el-lenguaje-y-otros-dicen-que-un-hechicero-lanzo-magia-a-unos-jeroglíficos">Tienen la peculiaridad de que su anatomía se asemeja a las letras del Alfabeto latino, sin embargo su origen es un poco confuso, algunos dicen que fue primero los pojémonos y de ellos salió el lenguaje y otros dicen que un hechicero lanzo magia a unos jeroglíficos</h5>
+<h5 id="tienen-la-peculiaridad-de-que-su-anatomía-se-asemeja-a-las-letras-del-alfabeto-latino-sin-embargo-su-origen-es-un-poco-confuso-algunos-dicen-que-fue-primero-los-pokémonos-y-de-ellos-salió-el-lenguaje-y-otros-dicen-que-un-hechicero-lanzo-magia-a-unos-jeroglíficos">Tienen la peculiaridad de que su anatomía se asemeja a las letras del Alfabeto latino, sin embargo su origen es un poco confuso, algunos dicen que fue primero los pokémonos y de ellos salió el lenguaje y otros dicen que un hechicero lanzo magia a unos jeroglíficos</h5>
 </li>
 <li>
 <h5 id="nos-hemos-tomado-la-tarea-de-representar-de-la-forma-mas-acertada-posible-el-leguaje-unown-en-arte-ascii-así-pudiendo-crear-un-traductor-en-lenguaje-c-totalmente-capaz-de-traducir-no-solo-palabras-sino-también-frases-compuestas.">Nos hemos tomado la tarea de representar de la forma mas acertada posible el leguaje unown en arte ASCII así pudiendo crear un traductor en lenguaje C++ totalmente capaz de traducir no solo palabras sino también frases compuestas.</h5>
