@@ -29,7 +29,7 @@
 </code></pre>
 <hr>
 <pre><code>             B                           (o)-
-										-( )
+			-( )
 </code></pre>
 <hr>
 <pre><code>                                        _____   
@@ -38,7 +38,7 @@
 </code></pre>
 <hr>
 <pre><code>                                          __    
-             D					   (o) )   
+             D				(o) )   
                                           _/  
 </code></pre>
 <hr>
