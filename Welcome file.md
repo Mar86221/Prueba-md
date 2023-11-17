@@ -24,7 +24,7 @@
 <h2 id="alfabeto-normal---alfabeto-traducido-a-unown">| Alfabeto Normal |  Alfabeto Traducido a Unown|</h2>
 <hr>
 <pre><code>                                          ^               
-			 A		                     (o)              
+A		                     (o)              
                                          / \             
 </code></pre>
 <hr>
@@ -47,7 +47,7 @@
                                           C 
 </code></pre>
 <hr>
-<pre><code>                                         (O)&gt;                                                                                                                                      
+<pre><code>                                         (O)&gt;                 
              F                            |-
                                           ^
 </code></pre>
